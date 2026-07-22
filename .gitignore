@@ -1,0 +1,11 @@
+# 忽略
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+out.csv
+out.json
+*.egg-info/
+.pytest_cache/
